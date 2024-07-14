@@ -7,6 +7,8 @@ I'm a Software Engineer with a passion for puzzle solving!
 
 I enjoy tackling personal projects that integrate my love for literature and the outdoors, or touch on nostalgic games from growing up in the aughts. Check out pinned projects to see what I've been working on recently!
 
+![digimon-izzy](https://github.com/user-attachments/assets/9057c3ab-e79f-4adc-a728-bf1ec9b1d29c)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-rose-b53a971a7)

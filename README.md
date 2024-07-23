@@ -15,10 +15,11 @@ I enjoy tackling personal projects that integrate my love for literature and the
 </div>
 
 
-📈 my github stats
 
-<!--*<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nathaniel-T-Rose&show_icons=true&theme=gotham" alt="natrose" />
-*/-->
+
+<!-- 📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nathaniel-T-Rose&show_icons=true&theme=gotham" alt="natrose" />
+-->
 
 <!--
 **Nathaniel-T-Rose/Nathaniel-T-Rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@ I'm a Software Engineer with a passion for puzzle solving!
 I enjoy tackling personal projects that integrate my love for literature and the outdoors, or touch on nostalgic games from growing up in the aughts. Check out pinned projects to see what I've been working on recently!
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-site-smoky-mu.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-rose-b53a971a7)
 <div align='center'>
 <img src='https://github.com/user-attachments/assets/acc93276-db89-4af9-81a6-405bc7c432c7' />

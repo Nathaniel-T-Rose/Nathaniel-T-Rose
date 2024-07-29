@@ -5,7 +5,7 @@ I'm a Software Engineer with a passion for puzzle solving!
 
 ## My Projects
 
-I enjoy tackling personal projects that integrate my love for literature and the outdoors, or touch on nostalgic games from growing up in the aughts. Check out pinned projects to see what I've been working on recently!
+I enjoy tackling personal projects that integrate my love for literature and the outdoors, or touch on nostalgic games from childhood in the aughts. Check out pinned projects to see what I've been working on recently!
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-site-smoky-mu.vercel.app/)
